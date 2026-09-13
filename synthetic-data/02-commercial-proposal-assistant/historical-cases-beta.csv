@@ -1,0 +1,5 @@
+case_id,date,client_alias,work_type,request_file,estimate_file,comment
+beta-001,2025-02-11,Клиент-Омега,corporate_site,requests/case-001.md,estimates/case-001.json,Запись принадлежит другой рабочей области
+beta-002,2025-04-22,Клиент-Сигма,ecommerce,requests/case-002.md,estimates/case-002.json,Запись принадлежит другой рабочей области
+beta-003,2025-06-09,Клиент-Тау,crm_implementation,requests/case-003.md,estimates/case-003.json,Запись принадлежит другой рабочей области
+

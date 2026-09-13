@@ -1,0 +1,10 @@
+{
+  "schema_version": "1.0",
+  "answers": {
+    "request-001": [{"case_id":"case-001","score":"0.92","matched_features":["work_type","integration","scope"],"source_revision_ids":["case-001-r1"]}],
+    "request-005": [{"case_id":"case-002","score":"0.88","matched_features":["work_type","integration","scope"],"source_revision_ids":["case-002-r1"]}],
+    "request-009": [{"case_id":"case-003","score":"0.90","matched_features":["work_type","integration","scope"],"source_revision_ids":["case-003-r1"]}],
+    "request-014": []
+  }
+}
+

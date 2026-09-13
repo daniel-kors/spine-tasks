@@ -1,0 +1,11 @@
+{"case_id":"price-01","currency":"RUB","lines":[{"quantity":"1","unit_price":"100.00"}],"discount_rate":"0.00","tax_rate":"0.20","expected":{"subtotal":"100.00","discount":"0.00","tax":"20.00","total":"120.00"}}
+{"case_id":"price-02","currency":"RUB","lines":[{"quantity":"2.5","unit_price":"199.99"}],"discount_rate":"0.00","tax_rate":"0.20","expected":{"subtotal":"499.98","discount":"0.00","tax":"100.00","total":"599.98"}}
+{"case_id":"price-03","currency":"RUB","lines":[{"quantity":"3","unit_price":"0.10"}],"discount_rate":"0.00","tax_rate":"0.20","expected":{"subtotal":"0.30","discount":"0.00","tax":"0.06","total":"0.36"}}
+{"case_id":"price-04","currency":"RUB","lines":[{"quantity":"7","unit_price":"1234.56"}],"discount_rate":"0.10","tax_rate":"0.20","expected":{"subtotal":"8641.92","discount":"864.19","tax":"1555.55","total":"9333.28"}}
+{"case_id":"price-05","currency":"RUB","lines":[{"quantity":"1","unit_price":"1000.00"}],"discount_rate":"0.30","tax_rate":"0.20","expected":{"subtotal":"1000.00","discount":"300.00","tax":"140.00","total":"840.00"}}
+{"case_id":"price-06","currency":"RUB","lines":[{"quantity":"2","unit_price":"999.995"}],"discount_rate":"0.00","tax_rate":"0.20","expected":{"subtotal":"1999.99","discount":"0.00","tax":"400.00","total":"2399.99"}}
+{"case_id":"price-07","currency":"RUB","lines":[{"quantity":"0.5","unit_price":"3001.00"}],"discount_rate":"0.00","tax_rate":"0.20","expected":{"subtotal":"1500.50","discount":"0.00","tax":"300.10","total":"1800.60"}}
+{"case_id":"price-08","currency":"RUB","lines":[{"quantity":"10","unit_price":"100.00"},{"quantity":"5","unit_price":"250.00"}],"discount_rate":"0.05","tax_rate":"0.20","expected":{"subtotal":"2250.00","discount":"112.50","tax":"427.50","total":"2565.00"}}
+{"case_id":"price-09","currency":"RUB","lines":[{"quantity":"4","unit_price":"25.00"}],"discount_rate":"0.00","tax_rate":"0.00","expected":{"subtotal":"100.00","discount":"0.00","tax":"0.00","total":"100.00"}}
+{"case_id":"price-10","currency":"RUB","lines":[{"quantity":"3","unit_price":"333.335"}],"discount_rate":"0.15","tax_rate":"0.20","expected":{"subtotal":"1000.01","discount":"150.00","tax":"170.00","total":"1020.01"}}
+

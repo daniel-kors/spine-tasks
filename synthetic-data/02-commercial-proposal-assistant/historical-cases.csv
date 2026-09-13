@@ -1,0 +1,14 @@
+case_id,date,client_alias,work_type,request_file,estimate_file,comment
+case-001,2025-01-15,Клиент-Альфа,corporate_site,requests/case-001.md,estimates/case-001.json,Мультиязычный корпоративный сайт
+case-002,2025-02-20,Клиент-Бета,ecommerce,requests/case-002.md,estimates/case-002.json,Магазин на 500 товаров
+case-003,2025-03-10,Клиент-Гамма,crm_implementation,requests/case-003.md,estimates/case-003.json,Отдел продаж 20 человек
+case-004,2025-03-28,Клиент-Дельта,corporate_site,requests/case-004.md,estimates/case-004.json,Сайт промышленной компании
+case-005,2025-04-16,Клиент-Эпсилон,ecommerce,requests/case-005.md,estimates/case-005.json,Магазин товаров для дома
+case-006,2025-05-05,Клиент-Дзета,crm_implementation,requests/case-006.md,estimates/case-006.json,Сервисная компания
+case-007,2025-05-30,Клиент-Эта,corporate_site,requests/case-007.md,estimates/case-007.json,Сайт образовательного центра
+case-008,2025-06-18,Клиент-Тета,ecommerce,requests/case-008.md,estimates/case-008.json,Оптовый личный кабинет
+case-009,2025-07-07,Клиент-Йота,crm_implementation,requests/case-009.md,estimates/case-009.json,Региональная сеть
+case-010,2025-07-25,Клиент-Каппа,corporate_site,requests/case-010.md,estimates/case-010.json,Новый сайт группы компаний
+case-011,2025-08-14,Клиент-Лямбда,ecommerce,requests/case-011.md,estimates/case-011.json,Розничный магазин электроники
+case-012,2025-09-03,Клиент-Мю,crm_implementation,requests/case-012.md,estimates/case-012.json,Проектный отдел
+

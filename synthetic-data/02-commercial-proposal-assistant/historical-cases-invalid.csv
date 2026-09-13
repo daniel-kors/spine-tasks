@@ -1,0 +1,5 @@
+case_id,date,client_alias,work_type,request_file,estimate_file,comment
+case-invalid-001,2025-09-10,Клиент-Ню,mobile_application,requests/case-001.md,estimates/case-001.json,Неизвестный тип должен стать other
+case-invalid-002,2025-09-11,Клиент-Кси,corporate_site,requests/missing.md,estimates/case-001.json,Файл запроса намеренно отсутствует
+case-invalid-003,2025-09-12,Клиент-Омикрон,ecommerce,requests/case-002.md,estimates/missing.json,Файл сметы намеренно отсутствует
+

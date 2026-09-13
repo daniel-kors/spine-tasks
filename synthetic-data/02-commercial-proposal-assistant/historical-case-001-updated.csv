@@ -1,0 +1,3 @@
+case_id,date,client_alias,work_type,request_file,estimate_file,comment
+case-001,2025-01-15,Клиент-Альфа,corporate_site,requests/case-001.md,estimates/case-001.json,Комментарий изменён для проверки новой исходной редакции
+

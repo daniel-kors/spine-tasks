@@ -1,0 +1,1 @@
+{"currency":"RUB","tax_rate":"0.20","discount_rate":"0.08","lines":[{"code":"CRM_AUDIT","title":"Обследование филиалов","quantity":"72","unit":"hour","unit_price":"4000.00"},{"code":"CRM_SETUP","title":"Настройка CRM","quantity":"260","unit":"hour","unit_price":"4500.00"},{"code":"MIGRATION","title":"Перенос контактов","quantity":"25000","unit":"record","unit_price":"28.00"}]}

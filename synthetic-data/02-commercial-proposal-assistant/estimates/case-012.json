@@ -1,0 +1,1 @@
+{"currency":"RUB","tax_rate":"0.20","discount_rate":"0.00","lines":[{"code":"CRM_AUDIT","title":"Описание процесса","quantity":"24","unit":"hour","unit_price":"3800.00"},{"code":"CRM_SETUP","title":"Настройка CRM","quantity":"90","unit":"hour","unit_price":"4300.00"},{"code":"TRAINING","title":"Обучение","quantity":"1","unit":"group","unit_price":"42000.00"}]}

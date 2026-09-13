@@ -1,0 +1,11 @@
+{
+  "schema_version": "1.0",
+  "policy_version": "v1",
+  "rules": {
+    "corporate_site": ["goal", "scope", "content", "deadline"],
+    "ecommerce": ["goal", "scope", "integration", "content"],
+    "crm_implementation": ["goal", "scope", "integration"],
+    "other": ["goal", "scope", "deadline"]
+  }
+}
+

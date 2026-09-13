@@ -1,0 +1,14 @@
+{
+  "request_id": "request-015",
+  "policy_version": "v1",
+  "status": "clarification_required",
+  "missing": ["content"],
+  "questions": [
+    {
+      "category": "content",
+      "text": "Кто предоставляет описания и изображения товаров?",
+      "reason_code": "REQUIRED_CONTENT_MISSING"
+    }
+  ]
+}
+

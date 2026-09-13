@@ -1,0 +1,1 @@
+{"currency":"RUB","tax_rate":"0.20","discount_rate":"0.00","lines":[{"code":"DISCOVERY","title":"Аналитика","quantity":"32","unit":"hour","unit_price":"3600.00"},{"code":"CATALOG_SITE","title":"Сайт с каталогом","quantity":"220","unit":"hour","unit_price":"4300.00"},{"code":"CONTENT_LOAD","title":"Загрузка каталога","quantity":"80","unit":"item","unit_price":"650.00"}]}

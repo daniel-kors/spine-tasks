@@ -1,0 +1,14 @@
+# Коммерческое предложение
+
+{% for section in proposal.sections %}
+## {{ section.title }}
+
+{{ section.body }}
+
+{% endfor %}
+## Стоимость
+
+Итого: {{ proposal.estimate.totals.total.amount }} {{ proposal.estimate.totals.total.currency }}.
+
+Документ является черновиком до явного утверждения уполномоченным сотрудником.
+
