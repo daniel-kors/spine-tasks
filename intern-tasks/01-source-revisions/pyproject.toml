@@ -1,0 +1,38 @@
+[project]
+name = "source-revisions"
+version = "0.1.0"
+description = "Immutable source revisions for the knowledge-base exercises"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pydantic>=2.8,<3",
+    "typer>=0.12,<1",
+]
+
+[project.scripts]
+source-revisions = "source_revisions.cli:app"
+
+[build-system]
+requires = ["uv_build>=0.12.16,<0.13.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "pytest>=8,<9",
+    "pytest-asyncio>=0.23,<2",
+    "ruff>=0.6,<1",
+]
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+pythonpath = ["src"]
+markers = [
+    "integration: проверка с настоящей внешней библиотекой",
+    "llm: проверка с настроенной языковой моделью",
+]
+
+[tool.ruff]
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]
