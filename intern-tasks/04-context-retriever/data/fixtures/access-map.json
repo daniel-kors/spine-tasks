@@ -1,0 +1,13 @@
+{
+  "schema_version": "1.0",
+  "sources": [
+    {"workspace_id": "alpha", "source_id": "travel-policy", "file": "documents/alpha/travel-policy-v1.md", "revision_id": "11111111-1111-4111-8111-111111111111", "required_scope": "all-employees", "current": false},
+    {"workspace_id": "alpha", "source_id": "travel-policy", "file": "documents/alpha/travel-policy-v2.md", "revision_id": "11111111-1111-4111-8111-222222222222", "required_scope": "all-employees", "current": true},
+    {"workspace_id": "alpha", "source_id": "security-policy", "file": "documents/alpha/security-policy.md", "revision_id": "22222222-2222-4222-8222-222222222222", "required_scope": "all-employees", "current": true},
+    {"workspace_id": "alpha", "source_id": "engineering-only", "file": "documents/alpha/engineering-only.md", "revision_id": "33333333-3333-4333-8333-333333333333", "required_scope": "engineering", "current": true},
+    {"workspace_id": "alpha", "source_id": "remote-work", "file": "documents/alpha/remote-work.md", "revision_id": "44444444-4444-4444-8444-444444444444", "required_scope": "all-employees", "current": true},
+    {"workspace_id": "alpha", "source_id": "benefits-policy", "file": "documents/alpha/benefits-policy.md", "revision_id": "55555555-5555-4555-8555-555555555555", "required_scope": "all-employees", "current": true},
+    {"workspace_id": "beta", "source_id": "security-policy", "file": "documents/beta/security-policy.md", "revision_id": "66666666-6666-4666-8666-666666666666", "required_scope": "all-employees", "current": true}
+  ]
+}
+
