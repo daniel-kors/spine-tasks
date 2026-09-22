@@ -1,0 +1,31 @@
+{
+  "workspace_id": "alpha",
+  "projection_id": "projection-demo",
+  "manifest_paths": [
+    "manifests/chunk-000.jsonl",
+    "manifests/chunk-001.jsonl",
+    "manifests/chunk-002.jsonl",
+    "manifests/chunk-003.jsonl",
+    "manifests/chunk-004.jsonl",
+    "manifests/chunk-005.jsonl",
+    "manifests/chunk-006.jsonl",
+    "manifests/chunk-007.jsonl",
+    "manifests/chunk-008.jsonl",
+    "manifests/chunk-009.jsonl",
+    "manifests/chunk-010.jsonl",
+    "manifests/chunk-011.jsonl",
+    "manifests/chunk-012.jsonl",
+    "manifests/chunk-013.jsonl",
+    "manifests/chunk-014.jsonl",
+    "manifests/chunk-015.jsonl",
+    "manifests/chunk-016.jsonl",
+    "manifests/chunk-017.jsonl",
+    "manifests/chunk-018.jsonl",
+    "manifests/chunk-019.jsonl",
+    "manifests/chunk-020.jsonl",
+    "manifests/chunk-021.jsonl",
+    "manifests/chunk-022.jsonl",
+    "manifests/chunk-023.jsonl",
+    "manifests/chunk-024.jsonl"
+  ]
+}
