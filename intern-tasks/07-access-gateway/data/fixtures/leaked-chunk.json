@@ -1,0 +1,11 @@
+{
+  "workspace_id": "alpha",
+  "required_scope": "engineering",
+  "text": "Кодовое имя прототипа — Aurora.",
+  "reference": {
+    "source_id": "engineering-only",
+    "revision_id": "33333333-3333-4333-8333-333333333333",
+    "chunk_id": "engineering-name",
+    "locator": {"heading": "Кодовое имя", "paragraph": 1}
+  }
+}
