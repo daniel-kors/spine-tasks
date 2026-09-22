@@ -1,0 +1,11 @@
+{"case_id":"manual-01","workspace_id":"alpha","scopes":["all-employees"],"question":"Какой размер суточных по действующим правилам?","expected_source_ids":["travel-policy"],"forbidden_source_ids":["engineering-only"]}
+{"case_id":"manual-02","workspace_id":"alpha","scopes":["all-employees"],"question":"Когда нужно подать заявку на поездку?","expected_source_ids":["travel-policy"],"forbidden_source_ids":["engineering-only"]}
+{"case_id":"manual-03","workspace_id":"alpha","scopes":["all-employees"],"question":"Куда переслать подозрительное письмо?","expected_source_ids":["security-policy"],"forbidden_source_ids":["engineering-only"]}
+{"case_id":"manual-04","workspace_id":"alpha","scopes":["all-employees"],"question":"Когда сообщить о потере ноутбука?","expected_source_ids":["security-policy"],"forbidden_source_ids":["engineering-only"]}
+{"case_id":"manual-05","workspace_id":"alpha","scopes":["all-employees"],"question":"Сколько возмещают за профессиональное развитие?","expected_source_ids":["benefits-policy"],"forbidden_source_ids":["engineering-only"]}
+{"case_id":"manual-06","workspace_id":"alpha","scopes":["all-employees"],"question":"Каков общий интервал доступности при работе из дома?","expected_source_ids":["remote-work"],"forbidden_source_ids":["engineering-only"]}
+{"case_id":"manual-07","workspace_id":"alpha","scopes":["all-employees"],"question":"Сколько дней отпуска положено за рождение питомца?","expected_source_ids":[],"forbidden_source_ids":["engineering-only"]}
+{"case_id":"manual-08","workspace_id":"alpha","scopes":["all-employees"],"question":"Как заказать пропуск на парковку?","expected_source_ids":[],"forbidden_source_ids":["engineering-only"]}
+{"case_id":"manual-09","workspace_id":"alpha","scopes":["all-employees"],"question":"Как называется закрытый прототип?","expected_source_ids":[],"forbidden_source_ids":["engineering-only"]}
+{"case_id":"manual-10","workspace_id":"alpha","scopes":["all-employees"],"question":"Когда пройдёт закрытая демонстрация?","expected_source_ids":[],"forbidden_source_ids":["engineering-only"]}
+
